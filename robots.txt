@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raticifek.github.io/sitemap.html.gz
+Sitemap: https://raticifek.github.io/app/sitemap.html.gz
+Sitemap: https://raticifek.github.io/assets/sitemap.html.gz
+Sitemap: https://raticifek.github.io/css/sitemap.html.gz
+Sitemap: https://raticifek.github.io/data/sitemap.html.gz
+Sitemap: https://raticifek.github.io/includes/sitemap.html.gz
+Sitemap: https://raticifek.github.io/item/sitemap.html.gz
+Sitemap: https://raticifek.github.io/src/sitemap.html.gz
